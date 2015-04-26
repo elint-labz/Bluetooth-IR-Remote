@@ -1,0 +1,22 @@
+COMMANDS
+R – RECORD
+A – ACCESS
+C – CLEAR EEPROM
+
+RECORD
+
+    R(NUM) – 001 to 128 buttons
+
+R001 – Send the Command from any mobile through Serial Terminal and Record the Remote Button 1 to 
+the Product.
+
+ACCESS
+
+    A(NUM) – 001 to 128 buttons
+
+A001 – Send the Command from any mobile through Serial Terminal and Access the Remote Button 1 
+Saved in the Product.
+
+CLEAR
+
+C – Clears the EEPROM Memory 
